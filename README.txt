@@ -1,7 +1,7 @@
 			+--------------------------+
-			|		    CS 153             |
+			|       CS 153             |
 			| PROJECT 2: USER PROGRAMS |
-			| 	   DESIGN DOCUMENT     |
+			|      DESIGN DOCUMENT     |
 			+--------------------------+
 
 ---- GROUP ----
