@@ -1,0 +1,8 @@
+Functionality and robustness of alarm clock:
+8	alarm-single
+8	alarm-multiple
+8	alarm-simultaneous
+8	alarm-priority
+
+2	alarm-zero
+2	alarm-negative
