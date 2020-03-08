@@ -13,6 +13,8 @@
 #include "devices/shutdown.h"
 #include "filesys/file.h"
 #include "filesys/filesys.h"
+#include <sys/types.h>
+#include <unistd.h>
 
 #define MAX_ARGS 3
 
